@@ -1,4 +1,4 @@
-# slowly-dark-zod-theme
+# slowly-dark-zed-theme
 
 This is a theme for the zed editor, mainly portet to zod from the [JetBrains Fleet Dark](https://github.com/franzgollhammer/jb-fleet-dark) vs code theme, whith some personal adjustments.
 
